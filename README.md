@@ -15,6 +15,8 @@ Connect with me!
 
 ### I'm Ricardo! Great to see you've ventured to my github page :).
 
+<img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" alt="Dog-typing"/>
+
 ### A light intro to my background:
 
 Up until a few months ago, I had dreams of attending veterinary school and becoming a bridge between low income pet owners and high quality veterinary care. However, years of temptation at a career in tech finally caught up with me and led to my decision to apply to Flatiron School's software engineering bootcamp. 
