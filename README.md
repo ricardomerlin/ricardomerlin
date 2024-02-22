@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm Ricardo, glad youve ventured to my github page :).
+
 <!--
 **ricardomerlin/ricardomerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
