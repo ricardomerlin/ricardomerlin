@@ -1,6 +1,5 @@
-### Hi there 👋
+### I'm Ricardo! Great to see you've ventured to my github page :).
 
-Connect with me!
 <div id="badges">
   <a href="www.linkedin.com/in/ricardo-merlin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,8 +11,6 @@ Connect with me!
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alr="Gmail Badge"/>
   </a>
 </div>
-
-### I'm Ricardo! Great to see you've ventured to my github page :).
 
 <img align="right" src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" alt="Dog-typing"/>
 
