@@ -4,6 +4,12 @@
   <a href="www.linkedin.com/in/ricardo-merlin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://medium.com/@rcrdmerlin">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:rcrdmerlin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alr="Gmail Badge"/>
+  </a>
 </div>
 
 ### I'm Ricardo, glad you've ventured to my github page :).
