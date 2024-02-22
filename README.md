@@ -1,13 +1,16 @@
 ### Hi there 👋
 
+www.linkedin.com/in/ricardo-merlin
+
 ### I'm Ricardo, glad you've ventured to my github page :).
 
+### A light intro to my background
+
+### Currently, I'm working on a social media application that is a Facebook dupe of sorts. I have'nt yet worked with direct messaging so I'm excited to understand the methods required for this. When the base is all set up, I want to find a way to implement a higher level of user authentication - perhaps face id or audio recognition - into my application.
 <!--
-**ricardomerlin/ricardomerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
