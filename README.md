@@ -32,6 +32,17 @@ Up until a few months ago, I had dreams of attending veterinary school and becom
 🖥️ TheSocialNetwork: A social media application that is a Facebook dupe of sorts. I haven't yet worked with direct messaging so I'm excited to understand the methods required for this. When the base is all set up, I want to find a way to implement a higher level of user authentication - perhaps face id or audio recognition - into my application.
 
 📋 JobJotter: A program for tracking the job application process. There are apps that already do this, just figured it would be an interesting project to work on!
+<br>
+<br>
+
+### <p align="center">Languages and tools:</p>
+
+<div style={{backgroundColor: 'white'}} align="center">
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<br>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+</div>
+
 <!--
 
 Here are some ideas to get you started:
