@@ -24,18 +24,17 @@ Up until a few months ago, I had dreams of attending veterinary school and becom
 
 🌱 Long-term Goal: My vision is to merge my software development and AI knowledge with veterinary medicine, creating AI-driven tools to revolutionize animal care. By advancing my education in AI and collaborating on pioneering projects, I aspire to lead efforts in developing technologies that elevate veterinary practices and animal welfare worldwide.
 
-### Projects that I'm currently working on:
+### What I'm currently working on:
 
-🖥️ TheSocialNetwork: A social media application that is a Facebook dupe of sorts. I haven't yet worked with direct messaging so I'm excited to understand the methods required for this. When the base is all set up, I want to find a way to implement a higher level of user authentication - perhaps face id or audio recognition - into my application.
+Hakoot - Kahoot mimic. Working to prioritize speed and efficiency when multiple users are connected to the same game. Functionality is almost all the same as plain old Kahoot, with the added ability to input custom answers from the users being tested.
 
-📋 JobJotter: A program for tracking the job application process. There are apps that already do this, just figured it would be an interesting project to work on!
 <br>
 <br>
 
 ### <p align="center">Languages and tools:</p>
 
 <div style={{backgroundColor: 'white'}} align="center">
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/type..scriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <br>
