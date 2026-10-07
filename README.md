@@ -1,11 +1,8 @@
-### I'm Ricardo! Great to see you've ventured to my github page :).
+### I'm Ricardo! Great to see you've ventured to my GitHub page :).
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ricardo-merlin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@rcrdmerlin">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="mailto:rcrdmerlin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
@@ -14,19 +11,23 @@
 
 <img align="right" src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" alt="Dog-typing"/>
 
-### A light intro to my background:
+### A little about me:
 
-Up until a few months ago, I had dreams of attending veterinary school and becoming a bridge between low income pet owners and high quality veterinary care. However, years of temptation at a career in tech finally caught up with me and led to my decision to apply to Flatiron School's software engineering bootcamp. Now, I'm actively searching for my first role in the tech field.
+I'm a Technical Support Engineer and Implementation Manager with a background in software engineering and enterprise SaaS.
 
-### Some Career Goals:
+I like digging into problems and figuring out how things work, especially when the answer isn't immediately obvious. Whether it's troubleshooting a technical issue, working through an integration, or building something to make a repetitive process easier, I enjoy getting into the details and finding a practical solution.
 
-⏳ Short-term Goal: I aim to deepen my tech skills across software development and programming focusing on projects that sharpen my expertise and reveal my passions. Alongside, I'll pursue relevant certifications to enhance my versatility in tech roles. I'm always looking to learn, so it is currently my goal to take in as much as possible.
+I'm particularly interested in software development, AI, automation, and tools that make technical workflows simpler.
 
-🌱 Long-term Goal: My vision is to merge my software development and AI knowledge with medicine, supporting development of AI-driven tools to revolutionize patient care in both human and veterinary medicine.
+### A little more about my background:
+
+Before transitioning into tech, I worked in veterinary medicine and eventually decided to pursue software engineering through Flatiron School. I still have a soft spot for anything involving animals, but these days I'm focused on building my career in tech.
 
 ### What I'm currently working on:
 
-Scoots - Kahoot mimic. Working to prioritize speed and efficiency when multiple users are connected to the same game. Functionality is almost all the same as plain old Kahoot, with the added ability to input custom answers from players. Additionally, there is the option for games to be either competitive or relaxed, ensuring that more complex questions have time for the room to discuss answers.
+I'm currently working on a personal bot deployment project aimed at streamlining the process of purchasing and deploying bots. I'm handling the application and product side while collaborating with a friend who has a DevOps background to work through the infrastructure and security side of the project.
+
+I'm also continuing to sharpen my software engineering skills, explore new technologies, and build things whenever I have an idea worth pursuing.
 
 <br>
 <br>
@@ -35,9 +36,8 @@ Scoots - Kahoot mimic. Working to prioritize speed and efficiency when multiple 
 
 <div align="center">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br>
+  <br>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<br>
+  <br>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 </div>
-
